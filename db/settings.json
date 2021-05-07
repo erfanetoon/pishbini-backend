@@ -1,0 +1,7 @@
+{ 
+    "_id" : ObjectId("5fd244ed82c1d80d74dc387b"), 
+    "servicePrice" : NumberInt(10000), 
+    "createdAt" : ISODate("2020-12-10T15:55:25.680+0000"), 
+    "updatedAt" : ISODate("2020-12-10T15:55:25.680+0000"), 
+    "__v" : NumberInt(0)
+}

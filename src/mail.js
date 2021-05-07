@@ -1,13 +1,13 @@
 const nodemailer = require("nodemailer");
 
-const email = "info@irpishbini.ir";
+const email = "email";
 const transporter = nodemailer.createTransport({
-  host: "mail.irpishbini.ir",
-  port: 465,
+  host: "host",
+  port: "port",
   secure: true,
   auth: {
-    user: email,
-    pass: "=$aavVjO5HO$",
+    user: "email",
+    pass: "password",
   },
 });
 

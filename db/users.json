@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("60081293c1431b22c8742959"), 
+    "role" : [
+        "USER", 
+        "ADMIN"
+    ], 
+    "competitions" : [
+
+    ], 
+    "pay" : [
+
+    ], 
+    "firstName" : "ادمین", 
+    "lastName" : "ادمین", 
+    "mobile" : "09121234567", 
+    "email" : "admin@gmail.com", 
+    "avatar" : "", 
+    "status" : true, 
+    "password" : "$2b$15$UwqF11B57CYIDtSGKpgOne8PE9kRo9lNsQo8B6qldbEg8LZCUQZjm", 
+    "titles" : NumberInt(0), 
+    "createdAt" : ISODate("2021-01-20T11:22:59.932+0000"), 
+    "updatedAt" : ISODate("2021-03-01T19:31:55.993+0000"), 
+    "__v" : NumberInt(0)
+}
